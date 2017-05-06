@@ -1,0 +1,7 @@
+.contact-form input[type=email], .content input[type=text] {
+    width: 400px;
+    max-width: 100%;
+}
+.contact-form textarea {
+    min-height: 250px;
+}
